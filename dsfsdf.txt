@@ -1,0 +1,4 @@
+IP: LifestealServer69.aternos.me
+Port: 49168
+Dyn IP: squirrelfish.aternos.host:49168
+name noobda
